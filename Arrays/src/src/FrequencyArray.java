@@ -3,7 +3,7 @@ package src;
 
 import java.util.Scanner;
 
-public class RemoveDuplicate {
+public class FrequencyArray {
 
     public static void main(String[] args) {
         
